@@ -30,6 +30,19 @@
 ➡ NDA Strong Regions : North & West India  
 ➡ I.N.D.I.A Strong Regions : South India & Eastern states (West Bengal, Tamil Nadu)   
 ➡ Regional Parties Impact : Influenced ~37 seats in coalition dynamics
+# Overall Seat Statistics
+## 📌 Winning Distribution
+NDA: 293 seats (53.96%) **┃**   I.N.D.I.A: 234 seats (43.09%) **┃** Others/Independent : 16 seats (2.95%)
+## 📊 Winning vs Losing Rate (Alliance Perspective)
+* NDA crossed majority mark with 21 seats above required majority.
+* I.N.D.I.A fell short by 38 seats from majority.
+* Others held minimal influence with below 3% share.
+
+## Alliance-Level Performance Insights
+* NDA secured clear majority (53.96%), indicating strong national mandate.
+* I.N.D.I.A maintained competitive opposition strength (43.09%).
+* The gap between NDA and I.N.D.I.A is 59 seats, reflecting moderate but decisive advantage.
+* Bipolar electoral structure observed (over 97% seats captured by two alliances).
 
 ### 📈 Vote Pattern Insights
 * EVM Votes Contribution : ~97%  **┃**  Postal Votes Contribution : ~3%
